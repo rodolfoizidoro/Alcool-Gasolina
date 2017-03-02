@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Alcool Gasolina/AppDelegate.swift"
+            timestampString = "510107009.717873"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Alcool_Gasolina.AppDelegate.init () -&gt; Alcool_Gasolina.AppDelegate"
+                  moduleName = "Alcool Gasolina"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rodolfoizidoro/Documents/CursoIos/Alcool%20Gasolina/Alcool%20Gasolina/AppDelegate.swift"
+                  timestampString = "510107050.818746"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Alcool_Gasolina.AppDelegate.__allocating_init () -&gt; Alcool_Gasolina.AppDelegate"
+                  moduleName = "Alcool Gasolina"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rodolfoizidoro/Documents/CursoIos/Alcool%20Gasolina/Alcool%20Gasolina/AppDelegate.swift"
+                  timestampString = "510107050.824257"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Alcool Gasolina"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rodolfoizidoro/Documents/CursoIos/Alcool%20Gasolina/Alcool%20Gasolina/AppDelegate.swift"
+                  timestampString = "510107050.8301"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "22">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
